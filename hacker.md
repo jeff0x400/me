@@ -14,8 +14,8 @@
 ![](http://catb.org/~esr/faqs/glider.png)
 黑客的基本技能
 =========
-* 黑客要掌握的5门编程语言：Python, Java, C/C++, Perl和Lisp。
-* 使用开源的Unix系统。
+* 黑客要掌握的5门编程语言：Python, Java, C/C++, Perl和Lisp
+* 使用开源的Unix系统
 * 使用万维网并编写HTML
 * 学习英语，如果你的水平不够的话
 
