@@ -7,10 +7,9 @@
 * Email: <mailto:jeff_nie@126.com>
 * Blog: <http://blog.csdn.net/jeff0x400>
 * GitHub: <https://github.com/jeff0x400>
-* Douban: <http://www.douban.com/people/jeff_nie/>
 
 
-✎ 教育背景
+✎教育背景
 ========     
 * 2004/09 ~ 2007/07&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;北京工商大学&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;计算机应用&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;大专(函授)
 * 2002/09 ~ 2005/07&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;江西商务学校&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;计算机网络&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;中专
@@ -24,7 +23,7 @@
 
 
 
-✔ 会的技能
+√ 会的技能
 ========
 * 熟悉Python: pep8, 多线程, 网络开发; Web开发框架: Django, Tornado
 * 熟悉Linux: Ubuntu,Debian
