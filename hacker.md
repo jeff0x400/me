@@ -2,7 +2,7 @@
 =============
 * 英文版：<http://catb.org/~esr/faqs/hacker-howto.html>
 * 中文版：<http://translations.readthedocs.org/en/latest/hacker_howto.html>
-##
+
 黑客的态度
 ========
 * 世界充满了待解决的迷人问题
