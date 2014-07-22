@@ -30,7 +30,7 @@
 * 熟悉Linux: Ubuntu,Debian
 * 熟悉Shell: 能用grep, sed, awk 作文本处理
 * 熟悉Vim/Git
-* 了解MySQL: 能写增删改查，存储过程
+* 熟悉Oracle: 能写增删改查，存储过程
 * 了解C/C++: 能使用GCC, make, GDB工具，能写Makefile
 * 了解Java
 * 了解HTML/CSS/JavaScript
