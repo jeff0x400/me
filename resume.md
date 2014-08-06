@@ -28,12 +28,12 @@
 * 熟悉Python: pep8, 多线程, 网络开发; Web开发框架: Django
 * 熟悉Linux: Ubuntu下的配置和管理
 * 熟悉Shell: 能用grep, sed, awk 作文本处理
-* 熟悉Oracle: 能写增删改查，存储过程
+* 熟悉Oracle: 能写增删改查语句，存储过程
 * 了解Vim/Git: 能配置和使用Vim编写代码，能用Git管理代码
-* 了解C/C++: 能使用GCC, make, GDB工具，能写Makefile
+* 了解C/C++: 了解基本语法，能使用GCC, GDB工具，能写Makefile
 * 了解Java: 了解J2SE
 * 了解HTML/CSS/JavaScript: 会写基础的HTML页面
-* 了解R及数据挖掘理论: 能做线性回归，Logistic回归和K-Mean分类
+* 了解数据挖掘理论及R语言: 能做线性回归，Logistic回归和K-Mean分类
 * 英语四级：听、读可以，说、写较弱
 
 ◎正在学的技能
