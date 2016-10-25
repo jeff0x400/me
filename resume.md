@@ -2,7 +2,7 @@
 ========
 * 姓名：聂建军
 * 性别：男
-* 年龄：28
+* 年龄：30
 * 电话：135 8571 7571
 * Email: <mailto:jeff_nie@126.com>
 * Blog: <http://blog.csdn.net/jeff0x400>
@@ -16,40 +16,40 @@
 
 ＄工作背景
 ========
-* 2014/03 ~ 至今&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;金智商擎&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;数据分析师
+* 2014/03 ~ 至今&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;北京游仁堂&nbsp;&nbsp;数据产品经理
+* 2014/03 ~ 2015/05&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;蓝门广告&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;数据分析师
 * 2013/05 ~ 2014/01&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;麦肯光明&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;数据分析师
 * 2012/08 ~ 2013/05&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;寰彩网络&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;测试工程师
 * 2007/06 ~ 2012/07&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;华硕电脑&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;售后工程师
 
 
+</>项目经验
+========
+* 2015~至今  &nbsp;&nbsp;在北京游仁堂做数据分析与产品运营，客户是零售行业，帮助客户扩大会员数量和提高活跃度。
+* 2014~2015 &nbsp;在蓝门广告做数据分析，客户是汽车行业，帮助客户提升潜在购买率。
+* 2013~2014 &nbsp;在麦肯光明做网站流量分析，客户是医药行业，帮助客户分析会员在线的行为，提高会员活跃度。
+
 
 √ 会的技能
 ========
-* 熟悉Python: pep8, 多线程, 网络开发; Web开发框架: Django
-* 熟悉Linux: Ubuntu下的配置和管理
-* 熟悉Shell: 能用grep, sed, awk 作文本处理
-* 熟悉Oracle: 能写增删改查语句，存储过程
+* 熟悉MySQL数据：查询与优化，存储过程与触发器，数据库设计
+* 熟悉Python和数据分析包：Numpy, Pandas, Matplotlib
+* 熟悉Linux: 熟悉常用命令和Shell 脚本
+* 了解R和数据处理包：data.table, dplyr, reshape2 等包
+* 了解数据挖掘理论：分类、聚类常用算法
 * 了解Vim/Git: 能配置和使用Vim编写代码，能用Git管理代码
-* 了解C/C++: 了解基本语法，能使用GCC, GDB工具，能写Makefile
-* 了解Java: 了解J2SE
-* 了解HTML/CSS/JavaScript: 会写基础的HTML页面
-* 了解数据挖掘理论及R语言: 能做线性回归，Logistic回归和K-Mean分类
-* 英语四级：听、读可以，说、写较弱
+* 了解C/C++: 基本语法
+* 了解HTML/CSS/JavaScript: 会写一点HTML 网页
+
 
 ◎正在学的技能
 ========
 * 英语: 赖世雄美语中级
 * 数学: 微积分、概率论与数理统计
-* 计算机理论基础: 操作系统原理，数据库原理
+* 计算机理论基础: 数据库原理
 
-
-</>项目经验
-========
-* 完成PythonChallenage 项目前20题
-* 完成Python基础教程10个项目
 
 ☀ 兴趣爱好
 =========
-* 跑步
-* 心理学
-* 制作NewAge音乐
+* 跑步与健身
+* 阅读与写作
