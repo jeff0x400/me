@@ -16,7 +16,7 @@
 
 ＄工作背景
 ========
-* 2014/03 ~ 至今&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;北京游仁堂&nbsp;&nbsp;数据产品经理
+* 2015/05 ~ 至今&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;北京游仁堂&nbsp;&nbsp;数据产品经理
 * 2014/03 ~ 2015/05&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;蓝门广告&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;数据分析师
 * 2013/05 ~ 2014/01&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;麦肯光明&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;数据分析师
 * 2012/08 ~ 2013/05&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;寰彩网络&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;测试工程师
